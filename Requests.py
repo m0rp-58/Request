@@ -39,7 +39,7 @@ if inp == '1':
     inpu = input("> ")
     if inpu == '1':
         os.system('cls')
-        r = requests.get('http://bancocn.com')
+        r = requests.get('URL AQUI!')
         print(r.text)
         print('-------------------------------------------------------------------')
         print("\n")
