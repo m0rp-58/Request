@@ -6,4 +6,4 @@ Todas as bibliotecas utilizadas estão dentro do arquivo, caso queira instalar e
 
 Comando : pip install (pacote)
 
-Para mudar a URL que será feita o request basta abrir o arquivo e mudar onde está a variavel "r"
+Para mudar a URL que será feita o request basta abrir o arquivo e mudar onde está a variavel "r".
